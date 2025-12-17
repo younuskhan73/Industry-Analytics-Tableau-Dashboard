@@ -6,17 +6,9 @@
 
 
 
-**\[!\[Tableau Dashboard](https://img.shields.io/badge/Tableau-Dashboard-blue?style=for-the-badge)](https://public.tableau.com/)**
 
 
-
-
-
-
-
-
-
-  **Project Overview**
+ **Project Overview**
 
 
 
@@ -34,7 +26,7 @@ The objective of this project is to transform raw business data into **meaningfu
 
 
 
-Organizations often struggle to compare performance across industries and identify:
+&nbsp;Organizations often struggle to compare performance across industries and identify:
 
 
 
@@ -46,7 +38,7 @@ Organizations often struggle to compare performance across industries and identi
 
 
 
-This dashboard addresses these challenges through interactive and visual analytics.
+&nbsp;This dashboard addresses these challenges through interactive and visual analytics.
 
 
 
@@ -120,7 +112,7 @@ This dashboard addresses these challenges through interactive and visual analyti
 
 
 
-All KPIs are created using Tableau calculated fields (Parameters = End Date and Start Date also used).
+&nbsp;All KPIs are created using Tableau calculated fields (Parameters = End Date and Start Date also used).
 
 
 
@@ -148,7 +140,7 @@ All KPIs are created using Tableau calculated fields (Parameters = End Date and 
 
 
 
-Some of the important Tableau calculations include:
+&nbsp; Some of the important Tableau calculations include:
 
 
 
@@ -168,7 +160,7 @@ Some of the important Tableau calculations include:
 
 
 
-All calculations are documented inside the **Calculation fields** folder.
+&nbsp; All calculations are documented inside the **Calculation fields** folder.
 
 
 
@@ -187,14 +179,6 @@ All calculations are documented inside the **Calculation fields** folder.
 
 
 &nbsp;🌐**Live Dashboard**
-
-
-
-   **\[!\[Tableau](https://img.shields.io/badge/Tableau-Public-blue?style=for-the-badge\&logo=tableau-software)](...)**
-
-
-
-
 
 
 
@@ -231,14 +215,6 @@ Dashboard screenshots are available in the Dashboard Images folder for quick ref
 This project is licensed under the **MIT License.**
 
 
-
-**\[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/YOUR\_USERNAME/)**
-
-**\[!\[Tableau Dashboard](https://img.shields.io/badge/Tableau-Dashboard-orange?style=for-the-badge)](https://public.tableau.com/app/profile/YOUR\_PROFILE)**
-
-**\[!\[GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge\&logo=github)](https://github.com/YOUR\_USERNAME)**
-
-**\[!\[Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:YOUR\_EMAIL)**
 
 
 
