@@ -6,7 +6,9 @@
 
 
 
-**\[!\[Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue?style=for-the-badge\&logo=tableau)](https://public.tableau.com/)**
+**\[!\[Tableau](https://img.shields.io/badge/Tableau-Public-blue?style=for-the-badge\&logo=tableau-software)](...)**
+
+
 
 
 
@@ -186,7 +188,9 @@ All calculations are documented inside the **Calculation fields** folder.
 
 
 
-   **\[!\[Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue?style=for-the-badge\&logo=tableau)](https://public.tableau.com/)**
+   **\[!\[Tableau](https://img.shields.io/badge/Tableau-Public-blue?style=for-the-badge\&logo=tableau-software)](...)**
+
+
 
 
 
