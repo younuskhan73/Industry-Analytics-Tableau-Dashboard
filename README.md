@@ -232,6 +232,18 @@ This project is licensed under the **MIT License.**
 
 
 
+**\[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/YOUR\_USERNAME/)**
+
+**\[!\[Tableau Dashboard](https://img.shields.io/badge/Tableau-Dashboard-orange?style=for-the-badge)](https://public.tableau.com/app/profile/YOUR\_PROFILE)**
+
+**\[!\[GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge\&logo=github)](https://github.com/YOUR\_USERNAME)**
+
+**\[!\[Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:YOUR\_EMAIL)**
+
+
+
+
+
 
 
 
