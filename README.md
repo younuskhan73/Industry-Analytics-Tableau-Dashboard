@@ -1,204 +1,204 @@
-##### &nbsp; #   Industry Analytics Dashboard
+### &nbsp; #   Industry Analytics Dashboard
 
-##### 
+### 
 
-##### &nbsp;    Tools: Tableau | SQL | Excel
+### &nbsp;    Tools: Tableau | SQL | Excel
 
-##### 
+### 
 
-##### 
+### 
 
-##### \## Project Objective:-
+### \## Project Objective:-
 
+### 
 
+### &nbsp; The objective of this project is to analysed industry-level business performance
 
-##### &nbsp; The objective of this project is to analysed industry-level business performance
+### &nbsp; across multiple sectors and identify trends related to revenue, growth,
 
-##### &nbsp; across multiple sectors and identify trends related to revenue, growth,
+### &nbsp; and operational efficiency.
 
-##### &nbsp; and operational efficiency.
+### &nbsp; The analysis focuses on comparing key metrics across industries
 
-##### &nbsp; The analysis focuses on comparing key metrics across industries
+### &nbsp; to support data-driven strategic decisions.
 
-##### &nbsp; to support data-driven strategic decisions.
+### 
 
-##### 
+### 
 
-##### 
+### \## Dataset Description:-
 
-##### \## Dataset Description:-
+### &nbsp; The dataset contains industry-level performance data including:
 
-##### &nbsp; The dataset contains industry-level performance data including:
+### &nbsp;  - Industry and sector classification
 
-##### &nbsp;  - Industry and sector classification
+### &nbsp;  - Revenue and growth metrics
 
-##### &nbsp;  - Revenue and growth metrics
+### &nbsp;  - Operational and financial indicators
 
-##### &nbsp;  - Operational and financial indicators
+### &nbsp;  - Time-based performance measures
 
-##### &nbsp;  - Time-based performance measures
+### 
 
-##### 
+### &nbsp; The data was cleaned, validated, and structured using Excel and SQL
 
-##### &nbsp; The data was cleaned, validated, and structured using Excel and SQL
+### &nbsp; before being used for visualization in Tableau.
 
-##### &nbsp; before being used for visualization in Tableau.
+### 
 
-##### 
+### 
 
-##### 
+### \## Tools and Technologies:-
 
-##### \## Tools and Technologies:-
+### 
 
+### &nbsp;  - Tableau – Interactive dashboard development and visual analytics
 
+### &nbsp;  - SQL – Data extraction, filtering, and aggregation
 
-##### &nbsp;  - Tableau – Interactive dashboard development and visual analytics
+### &nbsp;  - Excel – Data cleaning, validation, and pre-processing
 
-##### &nbsp;  - SQL – Data extraction, filtering, and aggregation
+### 
 
-##### &nbsp;  - Excel – Data cleaning, validation, and pre-processing
+### 
 
-##### 
+### \## Analysis Performed:-
 
-##### 
+### 
 
-##### \## Analysis Performed:-
+### &nbsp;  - Compared revenue and growth trends across industries
 
+### &nbsp;  - Analysed industry performance over time
 
+### &nbsp;  - Evaluated key operational metrics by sector
 
-##### &nbsp;  - Compared revenue and growth trends across industries
+### &nbsp;  - Identified high-performing and underperforming industries
 
-##### &nbsp;  - Analysed industry performance over time
+### &nbsp;  - Designed KPIs to track industry-level performance
 
-##### &nbsp;  - Evaluated key operational metrics by sector
+### 
 
-##### &nbsp;  - Identified high-performing and underperforming industries
+### 
 
-##### &nbsp;  - Designed KPIs to track industry-level performance
+### \## Dashboard Overview:-
 
-##### 
+### 
 
-##### 
+### &nbsp; The Tableau dashboard provides an interactive view of industry performance,
 
-##### \## Dashboard Overview:-
+### &nbsp; enabling users to compare key metrics across sectors and time periods.
 
+### &nbsp; Filters allow users to explore trends at industry and sector levels
 
+### &nbsp; for deeper analytical insights.
 
-##### &nbsp; The Tableau dashboard provides an interactive view of industry performance,
+### 
 
-##### &nbsp; enabling users to compare key metrics across sectors and time periods.
+### 
 
-##### &nbsp; Filters allow users to explore trends at industry and sector levels
+### \## Key Insights:-
 
-##### &nbsp; for deeper analytical insights.
+### 
 
-##### 
+### &nbsp;  - Certain industries consistently outperform others in revenue growth.
 
-##### 
+### &nbsp;  - Performance trends vary significantly across sectors.
 
-##### \## Key Insights:-
+### &nbsp;  - Some industries show stable growth while others exhibit high volatility.
 
+### &nbsp;  - Industry performance patterns change over time.
 
+### 
 
-##### &nbsp;  - Certain industries consistently outperform others in revenue growth.
+### 
 
-##### &nbsp;  - Performance trends vary significantly across sectors.
+### \## Business Recommendations:-
 
-##### &nbsp;  - Some industries show stable growth while others exhibit high volatility.
+### 
 
-##### &nbsp;  - Industry performance patterns change over time.
+### &nbsp;  - Focus investment and strategic efforts on high-growth industries.
 
-##### 
+### &nbsp;  - Monitor underperforming industries for risk mitigation.
 
-##### 
+### &nbsp;  - Use trend analysis to support long-term industry planning.
 
-##### \## Business Recommendations:-
+### &nbsp;  - Leverage industry benchmarks for performance evaluation.
 
+### 
 
+### 
 
-##### &nbsp;  - Focus investment and strategic efforts on high-growth industries.
+### \## Repository Structure:-
 
-##### &nbsp;  - Monitor underperforming industries for risk mitigation.
+### 
 
-##### &nbsp;  - Use trend analysis to support long-term industry planning.
+### &nbsp;Industry-Analytics-Tableau
 
-##### &nbsp;  - Leverage industry benchmarks for performance evaluation.
+### ┣ Dataset
 
-##### 
+### ┣ SQL
 
-##### 
+### ┣ Tableau
 
-##### \## Repository Structure:-
+### ┣ Screenshots
 
+### ┣ README.md
 
+### 
 
-##### &nbsp;Industry-Analytics-Tableau
+### 
 
-##### ┣ Dataset
+### \## Skills Demonstrated:-
 
-##### ┣ SQL
+### 
 
-##### ┣ Tableau
+### &nbsp;  - Industry and sector-level data analysis
 
-##### ┣ Screenshots
+### &nbsp;  - KPI design and performance benchmarking
 
-##### ┣ README.md
+### &nbsp;  - Interactive dashboard creation using Tableau
 
+### &nbsp;  - Business insight communication through data visualization
 
+### 
 
+### 
 
+### 
 
-##### \## Skills Demonstrated:-
+###  🌐**Live Dashboard**
 
+### 
 
+### 🔗 Tableau Public Link:https://public.tableau.com/views/IndustryAnalysisDashboard\_/Dashboard1?:language=en-US\&publish=yes\&:sid=\&:redirect=auth\&:display\_count=n\&:origin=viz\_share\_link
 
-##### &nbsp;  - Industry and sector-level data analysis
+### 
 
-##### &nbsp;  - KPI design and performance benchmarking
+### 
 
-##### &nbsp;  - Interactive dashboard creation using Tableau
+### 📷 **Dashboard Images:**
 
-##### &nbsp;  - Business insight communication through data visualization
+### 
 
+### Dashboard screenshots are available in the Dashboard Images folder for quick reference.
 
+### 
 
+### 
 
+###  👤 **Author:**
 
+### 
 
+###    **Patan Younus Khan**
 
-#####  🌐**Live Dashboard**
+###    Data Analyst | Tableau | Business Analytics
 
-##### 
+### 
 
-##### 🔗 Tableau Public Link:https://public.tableau.com/views/IndustryAnalysisDashboard\_/Dashboard1?:language=en-US\&publish=yes\&:sid=\&:redirect=auth\&:display\_count=n\&:origin=viz\_share\_link
+###  📄 **License:**
 
-##### 
+### 
 
-##### 
-
-##### 📷 **Dashboard Images:**
-
-##### 
-
-##### Dashboard screenshots are available in the Dashboard Images folder for quick reference.
-
-##### 
-
-##### 
-
-#####  👤 **Author:**
-
-##### 
-
-#####    **Patan Younus Khan**
-
-#####    Data Analyst | Tableau | Business Analytics
-
-##### 
-
-#####  📄 **License:**
-
-##### 
-
-##### This project is licensed under the **MIT License.**
+### This project is licensed under the **MIT License.**
 
