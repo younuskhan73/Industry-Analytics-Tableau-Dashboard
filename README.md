@@ -1,226 +1,204 @@
-# Industry-Analytics-Tableau-Dashboard
+##### &nbsp; #   Industry Analytics Dashboard
 
+##### 
 
+##### &nbsp;    Tools: Tableau | SQL | Excel
 
-**Industry Analytics Dashboard built in Tableau with advanced KPIs and interactive insights.**
+##### 
 
+##### 
 
+##### \## Project Objective:-
 
 
 
- **Project Overview**
+##### &nbsp; The objective of this project is to analysed industry-level business performance
 
+##### &nbsp; across multiple sectors and identify trends related to revenue, growth,
 
+##### &nbsp; and operational efficiency.
 
-This project focuses on building an **Industry Analytics Dashboard** using **Tableau** to analyse overall business performance. The dashboard helps understand how different industries perform based on \*\*revenue, profit, growth trends, and contribution metrics\*\*.
+##### &nbsp; The analysis focuses on comparing key metrics across industries
 
+##### &nbsp; to support data-driven strategic decisions.
 
+##### 
 
-The objective of this project is to transform raw business data into **meaningful insights** that support better decision-making.
+##### 
 
+##### \## Dataset Description:-
 
+##### &nbsp; The dataset contains industry-level performance data including:
 
+##### &nbsp;  - Industry and sector classification
 
+##### &nbsp;  - Revenue and growth metrics
 
-&nbsp;**Business Problem**
+##### &nbsp;  - Operational and financial indicators
 
+##### &nbsp;  - Time-based performance measures
 
+##### 
 
-&nbsp;Organizations often struggle to compare performance across industries and identify:
+##### &nbsp; The data was cleaned, validated, and structured using Excel and SQL
 
+##### &nbsp; before being used for visualization in Tableau.
 
+##### 
 
-\* Which industries generate the highest revenue and profit
+##### 
 
-\* How performance changes over time
+##### \## Tools and Technologies:-
 
-\* Which industries contribute the most to overall business growth
 
 
+##### &nbsp;  - Tableau – Interactive dashboard development and visual analytics
 
-&nbsp;This dashboard addresses these challenges through interactive and visual analytics.
+##### &nbsp;  - SQL – Data extraction, filtering, and aggregation
 
+##### &nbsp;  - Excel – Data cleaning, validation, and pre-processing
 
+##### 
 
+##### 
 
+##### \## Analysis Performed:-
 
-&nbsp;**Project Objectives**
 
 
+##### &nbsp;  - Compared revenue and growth trends across industries
 
-\* Analysed industry-wise revenue and profit
+##### &nbsp;  - Analysed industry performance over time
 
-\* Identify top and bottom performing industries
+##### &nbsp;  - Evaluated key operational metrics by sector
 
-\* Track Year-over-Year (YoY) and Year-to-Date (YTD) performance
+##### &nbsp;  - Identified high-performing and underperforming industries
 
-\* Understand industry contribution to total revenue
+##### &nbsp;  - Designed KPIs to track industry-level performance
 
-\* Enable quick performance comparison using visuals
+##### 
 
+##### 
 
+##### \## Dashboard Overview:-
 
 
 
-&nbsp;**Dataset Description**
+##### &nbsp; The Tableau dashboard provides an interactive view of industry performance,
 
+##### &nbsp; enabling users to compare key metrics across sectors and time periods.
 
+##### &nbsp; Filters allow users to explore trends at industry and sector levels
 
-&nbsp;   Type: Business / Industry dataset
+##### &nbsp; for deeper analytical insights.
 
-&nbsp;   Level: Transaction-level data
+##### 
 
-&nbsp;   Time Field: Order Date
+##### 
 
+##### \## Key Insights:-
 
 
-&nbsp;**Key Columns Used:**
 
+##### &nbsp;  - Certain industries consistently outperform others in revenue growth.
 
+##### &nbsp;  - Performance trends vary significantly across sectors.
 
-&nbsp; \* Industry, Segment, Product
+##### &nbsp;  - Some industries show stable growth while others exhibit high volatility.
 
-&nbsp; \* Revenue, Cost, Profit, Quantity
+##### &nbsp;  - Industry performance patterns change over time.
 
-&nbsp; \* Customer ID / Product ID
+##### 
 
+##### 
 
+##### \## Business Recommendations:-
 
-&nbsp;**Key KPIs**
 
 
+##### &nbsp;  - Focus investment and strategic efforts on high-growth industries.
 
-\* Total Revenue
+##### &nbsp;  - Monitor underperforming industries for risk mitigation.
 
-\* Total Profit
+##### &nbsp;  - Use trend analysis to support long-term industry planning.
 
-\* Profit Margin (%)
+##### &nbsp;  - Leverage industry benchmarks for performance evaluation.
 
-\* YoY Revenue Growth (%)
+##### 
 
-\* YoY Profit Growth (%)
+##### 
 
-\* YTD Revenue
+##### \## Repository Structure:-
 
-\* YTD Profit
 
-\* Revenue Contribution (%)
 
-\* Cost Ratio
+##### &nbsp;Industry-Analytics-Tableau
 
-\* Industry Rank by Revenue
+##### ┣ Dataset
 
+##### ┣ SQL
 
+##### ┣ Tableau
 
-&nbsp;All KPIs are created using Tableau calculated fields (Parameters = End Date and Start Date also used).
+##### ┣ Screenshots
 
+##### ┣ README.md
 
 
 
 
-&nbsp;**Dashboard Visuals**
 
+##### \## Skills Demonstrated:-
 
 
-\* KPI Cards for Revenue, Profit, and Growth
 
-\* Line charts for YoY and YTD trends
+##### &nbsp;  - Industry and sector-level data analysis
 
-\* Bar charts for Industry comparison
+##### &nbsp;  - KPI design and performance benchmarking
 
-\* Box plots to analysed Revenue and profit distribution
+##### &nbsp;  - Interactive dashboard creation using Tableau
 
-\* Contribution charts to show Industry share
+##### &nbsp;  - Business insight communication through data visualization
 
-\* Interactive filters for Industry, Segment, and Date
 
 
 
-&nbsp;**Calculations Used**
 
 
 
-&nbsp; Some of the important Tableau calculations include:
+#####  🌐**Live Dashboard**
 
+##### 
 
+##### 🔗 Tableau Public Link:https://public.tableau.com/views/IndustryAnalysisDashboard\_/Dashboard1?:language=en-US\&publish=yes\&:sid=\&:redirect=auth\&:display\_count=n\&:origin=viz\_share\_link
 
-\* Profit Margin
+##### 
 
-\* YoY Growth (Revenue \& Profit)
+##### 
 
-\* YTD Revenue \& Profit
+##### 📷 **Dashboard Images:**
 
-\* Revenue Contribution %
+##### 
 
-\* Cost Ratio
+##### Dashboard screenshots are available in the Dashboard Images folder for quick reference.
 
-\* Industry Ranking
+##### 
 
-\* LOD expressions for industry-level metrics
+##### 
 
+#####  👤 **Author:**
 
+##### 
 
-&nbsp; All calculations are documented inside the **Calculation fields** folder.
+#####    **Patan Younus Khan**
 
+#####    Data Analyst | Tableau | Business Analytics
 
+##### 
 
+#####  📄 **License:**
 
+##### 
 
-&nbsp;**Tools \& Technologies Used :**
-
-
-
-\* Tableau Desktop / Tableau Public
-
-\* Data Visualization \& Analytics
-
-\* Calculated Fields \& LOD Expressions
-
-
-
-&nbsp;🌐**Live Dashboard**
-
-
-
-🔗 Tableau Public Link:https://public.tableau.com/views/IndustryAnalysisDashboard\_/Dashboard1?:language=en-US\&publish=yes\&:sid=\&:redirect=auth\&:display\_count=n\&:origin=viz\_share\_link
-
-
-
-
-
-📷 **Dashboard Images:**
-
-
-
-Dashboard screenshots are available in the Dashboard Images folder for quick reference.
-
-
-
-
-
-&nbsp;👤 **Author:**
-
-
-
-&nbsp;  **Patan Younus Khan**
-
-&nbsp;  Data Analyst | Tableau | Business Analytics
-
-
-
-&nbsp;📄 **License:**
-
-
-
-This project is licensed under the **MIT License.**
-
-
-
-
-
-
-
-
-
-
+##### This project is licensed under the **MIT License.**
 
